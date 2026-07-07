@@ -16,17 +16,15 @@ Soy un estudiante avanzado de Ingeniería en informática radicado en Santa Fe, 
 
 ### 🚀 Proyectos Destacados
 
-* 🧮 **[Cálculo Numérico](link-al-repo):** Implementación algorítmica en Octave de métodos clásicos (búsqueda de raíces, sistemas lineales, interpolación) para uso académico.
-* 🏎️ **[Simulación F1 - Colapinto](link-al-repo):** *(Breve descripción de tu proyecto de simulación, qué tecnologías usaste y qué problema resuelve o muestra).*
+* 🧮 **[Predictor de abandono en entidades bancarias](https://github.com/AlvaroCaffaro/inteligencia_computacional/tree/main/customer_churn_predictor):** Implementación algorítmica en python de un predictor de abandono de usuarios en entidades bancarias basado en características demograficas.
+* 🏎️ **[Juego 2D Arcade - Fourth Circle](https://github.com/ImBruno7?tab=repositories):** *Código y ejecutable de un juego 2D de estilo arcade, programado y diseñado grupalmente (3 personas).*
 
 ### 📫 ¿Dónde encontrarme?
 
-* 📺 **YouTube:** [TheOS - Bruno](link-a-tu-canal)
-* 💼 **LinkedIn:** [Tu Perfil de LinkedIn](link-a-tu-linkedin)
+* 📺 **YouTube:** [TheOS - Bruno](https://www.youtube.com/@TheOS-Bruno)
+* 💼 **LinkedIn:** [Bruno Motto](https://www.linkedin.com/in/bruno-motto-028478224/)
 * ✉️ **Email:** bruno.motto7@gmail.com
 
----
-⚡ *Dato curioso:* Cuando me alejo del teclado, seguramente estoy analizando algún disco clásico del rock nacional, jugando un partido de pádel o gestionando la táctica de mi equipo en el Football Manager.
 
 <!--
 **ImBruno7/ImBruno7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
